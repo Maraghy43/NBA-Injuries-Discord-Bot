@@ -1,0 +1,22 @@
+{
+  "name": "w",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "puppeteer": "^22.6.1",
+    "rotowire-api-client": "^1.0.5",
+    "wokcommands": "^2.1.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
